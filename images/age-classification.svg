@@ -1,0 +1,24 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="g2" cx="50%" cy="38%" r="70%">
+      <stop offset="0%" stop-color="#17335A"/>
+      <stop offset="100%" stop-color="#0E1E33"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g2)"/>
+
+  <g transform="translate(400,270)">
+    <circle cx="0" cy="-40" r="150" fill="none" stroke="#7FB2D9" stroke-width="1" stroke-dasharray="4 7" opacity="0.4"/>
+    <circle cx="0" cy="-40" r="180" fill="none" stroke="#7FB2D9" stroke-width="1" stroke-dasharray="4 7" opacity="0.25"/>
+    <circle cx="0" cy="-40" r="110" fill="none" stroke="#EAF1F7" stroke-width="2.5" opacity="0.9"/>
+    <path d="M-95,85 C-95,190 95,190 95,85 L118,150 L-118,150 Z" fill="none" stroke="#EAF1F7" stroke-width="2.5" opacity="0.9"/>
+    <circle cx="-40" cy="-50" r="4.5" fill="#DE8433"/>
+    <circle cx="40" cy="-50" r="4.5" fill="#DE8433"/>
+    <circle cx="0" cy="-10" r="4.5" fill="#DE8433"/>
+    <circle cx="-25" cy="32" r="4.5" fill="#DE8433"/>
+    <circle cx="25" cy="32" r="4.5" fill="#DE8433"/>
+  </g>
+
+  <rect x="56" y="404" width="168" height="34" rx="2" fill="none" stroke="#DE8433" stroke-width="1.5"/>
+  <text x="70" y="426" font-family="'JetBrains Mono',monospace" font-size="14" fill="#DE8433">AGE GROUP: 24–32</text>
+</svg>
